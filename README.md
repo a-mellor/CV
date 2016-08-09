@@ -13,7 +13,7 @@ Along with learning how to code in Ruby and Javascript, I have leant industry be
 
 Skills
 ------
-##### Communication
+#### Communication
 Makers Academy
 * Pair programming - Makers Academy are advocates of working in pairs. This required being able to quickly adapt to different personalities and being able to quickly adapt.
 * Stand-ups - occurred  daily to maintain focus and productivity of the team.
@@ -23,7 +23,7 @@ Previous roles
 * Team leader - lead a team of 4 in my previous role.
 * Mentoring - weekly 121's to focus on development and coaching.
 
-##### Attention to Detail
+#### Attention to Detail
 Makers Academy
 * Clean code - refactoring and sticking to DRY practices and makes sure clear and concise naming conventions were used to allow code to be easily built on by another developer.
 * TDD - only writing code that is satisfying a test.
@@ -33,7 +33,7 @@ Previous roles
 * Building quotes - analysing data using excel.
 
 
-##### Learning fast
+#### Learning fast
 Makers Academy
 * Problem solver - weekly challenges to build on what we have learnt. Breaking them down into their logical parts.
 * Technologies - learnt basics of Javascript and Rails in days using the techniques taught by Makers Academy.
