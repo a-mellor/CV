@@ -16,36 +16,36 @@ Skills
 #### Communication
 Ability to communicate ideas clearly and concisely, both written and verbal, to a diverse range of audiences including students, peers, clients, and senior management.
 
-**Makers Academy**
-* Pair programming - Makers Academy are advocates of working in pairs This required being able to quickly adapt to different personalities and being able to quickly adapt
-* Stand-ups - occurred  daily to maintain focus and productivity of the team
-* Feedback - an important part of XP principles is being able to give an receive feedback. This was practiced each week
+##### Makers Academy
+- Pair programming - Makers Academy are advocates of working in pairs This required being able to quickly adapt to different personalities and being able to quickly adapt
+- Stand-ups - occurred  daily to maintain focus and productivity of the team
+- Feedback - an important part of XP principles is being able to give an receive feedback. This was practiced each week
 
-**Previous roles**
-* Team leader - lead a team of 4
-* Mentoring - weekly 121's to focus on development and coaching
+##### Previous roles
+- Team leader - lead a team of 4
+- Mentoring - weekly 121's to focus on development and coaching
 
 #### Attention to Detail
 Necessary to write clear, clean, consistent code that can be easily built on. Work place experience analysing applications and justifying an underwriting decision.
 
-**Makers Academy**
-* Clean code - refactoring and sticking to DRY practices and makes sure clear and concise naming conventions were used to allow code to be easily built on by another developer
-* TDD - only writing code that is satisfying a test
+##### Makers Academy
+- Clean code - refactoring and sticking to DRY practices and makes sure clear and concise naming conventions were used to allow code to be easily built on by another developer
+- TDD - only writing code that is satisfying a test
 
-**Previous roles**
-* Decision making - presented with a combination of credit reports, financial data and companies management accounts, I would decision their application for business funding
-* Building quotes - analysing data using excel.
+##### Previous roles
+- Decision making - presented with a combination of credit reports, financial data and companies management accounts, I would decision their application for business funding
+- Building quotes - analysing data using excel.
 
 
 #### Learning fast
 Thrown in a the deep-end during Makers Academy. Had little coding experience when I started, but now have the skills to approach a problem in a logical and practical way.
 
-**Makers Academy**
-* Problem solver - weekly challenges to build on what we have learnt. Breaking them down into their logical parts.
-* Technologies - learnt basics of Javascript and Rails in days using the techniques taught by Makers Academy.
+##### Makers Academy
+- Problem solver - weekly challenges to build on what we have learnt. Breaking them down into their logical parts.
+- Technologies - learnt basics of Javascript and Rails in days using the techniques taught by Makers Academy.
 
-**Previous roles**
-* Inter-department - working with the two other departments to build a fast track application process. Required me to quickly become familiar with their processes and policy.
+##### Previous roles
+- Inter-department - working with the two other departments to build a fast track application process. Required me to quickly become familiar with their processes and policy.
 
 Projects
 -----
@@ -57,7 +57,7 @@ Projects
 
 Experience
 ------
-#### Libers Limited | (May 10 - May '16) <br>
+#### Libers Limited | (May '10 - May '16) <br>
 *Underwriter Nov '15 - May '16<br>
 Senior Relationship Manager July '14 - Nov '15<br>
 Senior Sales Executive Aug '12 - June '14<br>
