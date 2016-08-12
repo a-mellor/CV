@@ -14,6 +14,8 @@ Along with learning how to code in Ruby and Javascript, I have leant industry be
 Skills
 ------
 #### Communication
+Ability to communicate ideas clearly and concisely, both written and verbal, to a diverse range of audiences including students, peers, clients, and senior management.
+
 **Makers Academy**
 * Pair programming - Makers Academy are advocates of working in pairs This required being able to quickly adapt to different personalities and being able to quickly adapt
 * Stand-ups - occurred  daily to maintain focus and productivity of the team
@@ -24,17 +26,20 @@ Skills
 * Mentoring - weekly 121's to focus on development and coaching
 
 #### Attention to Detail
+Necessary to write clear, clean, consistent code that can be easily built on. Work place experience analysing applications and justifying an underwriting decision.
+
 **Makers Academy**
 * Clean code - refactoring and sticking to DRY practices and makes sure clear and concise naming conventions were used to allow code to be easily built on by another developer
 * TDD - only writing code that is satisfying a test
 
 **Previous roles**
-* Decision making - presented with a combination of credit reports, financial data and companies management accounts I would decision their application for business funding
-
+* Decision making - presented with a combination of credit reports, financial data and companies management accounts, I would decision their application for business funding
 * Building quotes - analysing data using excel.
 
 
 #### Learning fast
+Thrown in a the deep-end during Makers Academy. Had little coding experience when I started, but now have the skills to approach a problem in a logical and practical way.
+
 **Makers Academy**
 * Problem solver - weekly challenges to build on what we have learnt. Breaking them down into their logical parts.
 * Technologies - learnt basics of Javascript and Rails in days using the techniques taught by Makers Academy.
@@ -47,8 +52,8 @@ Projects
 | Project | Summary | Technologies|
 |---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------|
 | [Varys](https://github.com/a-mellor/varys) | A search engine; my final group project  | Ruby, Python, Sinatra |
-| [Makers BnB](https://github.com/a-mellor/) | An AirBnB clone application; our first effort at a team-built web application | Ruby, Sinatra, OOD |
-| [Takeaway Challenge](https://github.com/a-mellor/) | A simple Ruby CLI application to process takeaway orders that included an Twilio API interface | Ruby, OOD, Twilio API usage |
+| [Makers BnB](https://github.com/a-mellor/MakersBnB) | An AirBnB clone application; our first effort at a team-built web application | Ruby, Sinatra, OOD |
+| [Takeaway Challenge](https://github.com/a-mellor/takeaway-challenge) | A simple Ruby CLI application to process takeaway orders; my first Makers challenge | Ruby, OOD |
 
 Experience
 ------
@@ -84,5 +89,6 @@ OOP, TDD, XP, SOLID Design Principles, Agile Development, Pair Programming, Vers
 * BA, Business Management
 * President, University of Sheffield Rowing Club
 
-### Interests
+Interests
+-------
 * Cycling, running, golf, climbing, shooting.
