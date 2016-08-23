@@ -14,7 +14,7 @@ Along with learning how to code in Ruby and Javascript, I have leant industry be
 Skills
 ------
 #### Communication
-Ability to communicate ideas clearly and concisely, both written and verbal, to a diverse range of audiences including students, peers, clients, and senior management.
+Ability to communicate clearly and concisely to a wide range of audiences. From initial sales conversations to presenting to management.
 
 ##### Makers Academy
 - Pair programming - Makers Academy are advocates of working in pairs This required being able to quickly adapt to different personalities and being able to quickly adapt
